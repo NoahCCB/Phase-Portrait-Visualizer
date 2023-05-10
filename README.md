@@ -9,13 +9,16 @@ uninterpretable orbits.
 All input should be entered into appropriate boxes before submit is clicked. Once submit is clicked by user, whatever is currently in the boxes will be graphed.
 
 For matrix representation (upper left input boxes), one matrix at a time should be entered in the following format:
+
 2x2: for a matrix [[a, c], [b, d]], |a, b| , this matrix should be entered as [a, b, c, d], or a, b, c, d. Commas are required
                                     |c, d| 
      between elements
+		 
 3x3: for a matrix [[a, d, g], [b, e, h], [c, f, i]], |a, b, c| , this matrix should be entered as [a, b, c, d, e, f, g, h, i], or a, b, c, d, e, f, g, h, i. Commas are required
                                                      |d, e, f| 
                                                      |g, h, i|
      between elements
+		 
 For a system of equations (upper right input boxes) the equations should be entered in the following format:
 all variables should be lower case x, y, and z only. These equations should use standard mathematical operators and for powers, the format should be base^exponent
 
